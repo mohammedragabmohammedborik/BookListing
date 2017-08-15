@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookListing</string>
+    <string name="nobook">No List Book.</string>
+    <string name="NoConnect">No Internet Connection.</string>
+</resources>
